@@ -4,6 +4,10 @@ const dotenv = require('dotenv')
 dotenv.config();
 const accountrouts = require('./routs/accountrout.js')
 
+// database connectivity starting point
+
+
+// database connectivity ending point
 
 const app = express();
 
